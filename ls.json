@@ -1,0 +1,165 @@
+{
+    "kind": "shell",
+    "version": "1.0.0",
+    "spec": {
+        "main": "ls",
+        "args": [
+            {
+                "name": "@",
+                "type": "flag"
+            },
+            {
+                "name": "1",
+                "type": "flag"
+            },
+            {
+                "name": "A",
+                "type": "flag"
+            },
+            {
+                "name": "a",
+                "type": "flag"
+            },
+            {
+                "name": "B",
+                "type": "flag"
+            },
+            {
+                "name": "b",
+                "type": "flag"
+            },
+            {
+                "name": "C",
+                "type": "flag"
+            },
+            {
+                "name": "c",
+                "type": "flag"
+            },
+            {
+                "name": "d",
+                "type": "flag"
+            },
+            {
+                "name": "e",
+                "type": "flag"
+            },
+            {
+                "name": "F",
+                "type": "flag"
+            },
+            {
+                "name": "f",
+                "type": "flag"
+            },
+            {
+                "name": "G",
+                "type": "flag"
+            },
+            {
+                "name": "g",
+                "type": "flag"
+            },
+            {
+                "name": "H",
+                "type": "flag"
+            },
+            {
+                "name": "h",
+                "type": "flag"
+            },
+            {
+                "name": "i",
+                "type": "flag"
+            },
+            {
+                "name": "k",
+                "type": "flag"
+            },
+            {
+                "name": "L",
+                "type": "flag"
+            },
+            {
+                "name": "l",
+                "type": "flag"
+            },
+            {
+                "name": "m",
+                "type": "flag"
+            },
+            {
+                "name": "n",
+                "type": "flag"
+            },
+            {
+                "name": "O",
+                "type": "flag"
+            },
+            {
+                "name": "o",
+                "type": "flag"
+            },
+            {
+                "name": "P",
+                "type": "flag"
+            },
+            {
+                "name": "p",
+                "type": "flag"
+            },
+            {
+                "name": "q",
+                "type": "flag"
+            },
+            {
+                "name": "R",
+                "type": "flag"
+            },
+            {
+                "name": "r",
+                "type": "flag"
+            },
+            {
+                "name": "S",
+                "type": "flag"
+            },
+            {
+                "name": "s",
+                "type": "flag"
+            },
+            {
+                "name": "T",
+                "type": "flag"
+            },
+            {
+                "name": "t",
+                "type": "flag"
+            },
+            {
+                "name": "u",
+                "type": "flag"
+            },
+            {
+                "name": "U",
+                "type": "flag"
+            },
+            {
+                "name": "v",
+                "type": "flag"
+            },
+            {
+                "name": "W",
+                "type": "flag"
+            },
+            {
+                "name": "w",
+                "type": "flag"
+            },
+            {
+                "name": "x",
+                "type": "flag"
+            }
+        ]
+    }
+}
