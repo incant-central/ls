@@ -1,6 +1,5 @@
 {
-    "kind": "shell",
-    "version": "1.0.0",
+    "kind": "shellspec",
     "spec": {
         "main": "ls",
         "args": [
